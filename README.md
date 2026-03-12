@@ -4,7 +4,8 @@ Bem-vindo ao repositório oficial da nossa turma!
 Este projeto reúne os perfis de todos os integrantes da equipe.
 
 ## 👥 Membros da equipe
-<!-- Os nomes serão adicionados aqui -->
+<!-- - [Nicoly] — Reviewer
+- [Nathalya] — Observad -->
 
 ## 📁 Estrutura do projeto
 
