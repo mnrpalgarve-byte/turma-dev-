@@ -1,6 +1,7 @@
 # 👤 Perfil: [GUILHERME OLIVEIRA RIOS]
 
 **Função no projeto:** [Developer]
+**Avatar:** 🧑‍💻
 **Turma:** Técnico em Desenvolvimento de Sistemas
 **Data de entrada:** [12/03/2026]
 
