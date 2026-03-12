@@ -5,7 +5,7 @@ Este projeto reúne os perfis de todos os integrantes da equipe.
 
 ## 👥 Membros da equipe
 <!-- - [Nicoly] — Reviewer
-- [Nathalya] — Observad -->
+- [Nathalya] — Observador -->
 
 ## 📁 Estrutura do projeto
 
