@@ -4,10 +4,10 @@ Bem-vindo ao repositório oficial da nossa turma!
 Este projeto reúne os perfis de todos os integrantes da equipe.
 
 ## 👥 Membros da equipe
-<-- -[MARCELLA] - ADMIN
-     -[GUILHERME RIOS]- DEVLOPER -->
-<-- - [Nicoly] — Reviewer
-- [Nathalya] — Observador -->
+<--   -[MARCELLA] - ADMIN
+     -[GUILHERMERIOS]- DEVLOPER -->
+     - [Nicoly] — Reviewer
+     - [Nathalya] — Observador -->
 
 ## 📁 Estrutura do projeto
 
